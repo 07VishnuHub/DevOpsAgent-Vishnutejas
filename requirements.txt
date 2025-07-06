@@ -1,0 +1,3 @@
+openai
+prometheus-api-client
+python-dotenv

@@ -1,0 +1,36 @@
+
+🕒 2025-07-06 11:44:49.793865
+🔍 Container: test_app
+🧠 Analysis: The provided information does not contain any specific details about high CPU usage. The error message indicates that the system failed to fetch logs from a Docker container named 'test_app'. This could be due to various reasons such as insufficient permissions, incorrect command syntax, the container might not be running, etc. However, none of these directly indicate a high CPU usage issue. More detailed logs or monitoring of the system resources would be required to identify the cause of high CPU usage.
+🔁 Action: ❌ Failed to restart container 'test_app': Command '['docker', 'restart', 'test_app']' returned non-zero exit status 1.
+-------------------------------
+
+🕒 2025-07-06 11:50:17.632363
+🔍 Container: cpu_hog_app
+🧠 Analysis: ❌ No logs to analyze.
+🔁 Action: ℹ️ No restart performed.
+-------------------------------
+
+🕒 2025-07-06 12:09:32.109844
+🔍 Container: cpu_hog_app
+🧠 Analysis: ❌ No logs to analyze.
+🔁 Action: ℹ️ No restart performed.
+-------------------------------
+
+🕒 2025-07-06 12:19:00.429676
+🔍 Container: cpu_hog_app
+🧠 Analysis: 
+🔁 Action: ℹ️ Restart not needed — LLM didn’t suggest.
+-------------------------------
+
+🕒 2025-07-06 12:48:34.954837
+🔍 Container: cpu_hog_app
+🧠 Analysis: 
+🔁 Action: ℹ️ Restart not needed — LLM didn’t suggest.
+-------------------------------
+
+🕒 2025-07-06 12:49:07.549742
+🔍 Container: cpu_hog_app
+🧠 Analysis: 
+🔁 Action: ℹ️ Restart not needed — LLM didn’t suggest.
+-------------------------------
