@@ -2,3 +2,4 @@ openai
 prometheus-api-client
 python-dotenv
 langchain
+langchain-community
