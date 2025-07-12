@@ -33,7 +33,7 @@ An AI-powered, autonomous DevOps agent that monitors your infrastructure in real
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:<your-username>/devops-ai-agent.git
+git clone repo
 cd devops-ai-agent
 ```
 ### Install Requirements
